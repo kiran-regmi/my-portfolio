@@ -1,0 +1,6 @@
+name, email, subject, message
+
+Kiran Regmi,kiranimani@gmail.com,Database,This is how we can collect user data in text or csv file format. 
+
+,,,
+Imani Regmi,iregmi@unomaha.edu,Database,Adding more text to database.
